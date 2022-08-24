@@ -5,7 +5,11 @@ Hi man
 asdasd
 
 New line by user1
+<<<<<<< HEAD
 
 user1 feature5
 
 user1 feature6 rebase (two users)
+=======
+some change
+>>>>>>> 249f17d (Change file1 be user1)
