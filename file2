@@ -2,5 +2,11 @@ Good bye!
 Line from user2
 Another line by user2
 
+<<<<<<< HEAD
 critical bug fixed
 
+=======
+New line by user1 (user1)
+
+New line - rebase user2
+>>>>>>> 122a2a3 (user2 change file2 rebase)
